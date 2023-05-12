@@ -1,0 +1,7 @@
+DATA: It can be any unprocessed fact, value, text, sound, or picture that is not being 
+interpreted and analyzed. 
+INFORMATION: Data that has been interpreted and manipulated and has now some meaningful inference 
+for the users. 
+KNOWLEDGE: Combination of inferred information, experiences, learning, and insights.
+ Results in awareness or concept building for an individual or organization. 
+
